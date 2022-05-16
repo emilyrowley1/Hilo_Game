@@ -20,15 +20,15 @@ namespace MyApp // Note: actual namespace depends on the project name.
                 string guess = Console.ReadLine();
                 if (guess.ToUpper() == "H" && nextCard >= currentCard)
                 {
-                    player1.points = player1.correctGuess();
+                    player1.correctGuess();
                 }
                 else if (guess.ToUpper() == "L" && nextCard <= currentCard)
                 {
-                    player1.points = player1.correctGuess();
+                    player1.correctGuess();
                 }
                 else
                 {
-                    player1.points = player1.incorrectGuess();
+                    player1.incorrectGuess();
                 }
 
                 Console.WriteLine($"The card was: {nextCard}");

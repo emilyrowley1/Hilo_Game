@@ -2,13 +2,13 @@ public class Player
 {
     public int points = 300;
 
-    public int incorrectGuess()
+    public void incorrectGuess()
     {
-        return points - 75;
+        points = points - 75;
     }
 
-    public int correctGuess()
+    public void correctGuess()
     {
-        return points + 100;
+        points = points + 100;
     }
 }
