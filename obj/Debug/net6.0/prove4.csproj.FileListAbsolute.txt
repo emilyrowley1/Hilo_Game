@@ -1,0 +1,15 @@
+C:\Users\erowl\BYU-Idaho\Spring 2022\CSE 210\week4\prove4\bin\Debug\net6.0\prove4.exe
+C:\Users\erowl\BYU-Idaho\Spring 2022\CSE 210\week4\prove4\bin\Debug\net6.0\prove4.deps.json
+C:\Users\erowl\BYU-Idaho\Spring 2022\CSE 210\week4\prove4\bin\Debug\net6.0\prove4.runtimeconfig.json
+C:\Users\erowl\BYU-Idaho\Spring 2022\CSE 210\week4\prove4\bin\Debug\net6.0\prove4.dll
+C:\Users\erowl\BYU-Idaho\Spring 2022\CSE 210\week4\prove4\bin\Debug\net6.0\prove4.pdb
+C:\Users\erowl\BYU-Idaho\Spring 2022\CSE 210\week4\prove4\obj\Debug\net6.0\prove4.csproj.AssemblyReference.cache
+C:\Users\erowl\BYU-Idaho\Spring 2022\CSE 210\week4\prove4\obj\Debug\net6.0\prove4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erowl\BYU-Idaho\Spring 2022\CSE 210\week4\prove4\obj\Debug\net6.0\prove4.AssemblyInfoInputs.cache
+C:\Users\erowl\BYU-Idaho\Spring 2022\CSE 210\week4\prove4\obj\Debug\net6.0\prove4.AssemblyInfo.cs
+C:\Users\erowl\BYU-Idaho\Spring 2022\CSE 210\week4\prove4\obj\Debug\net6.0\prove4.csproj.CoreCompileInputs.cache
+C:\Users\erowl\BYU-Idaho\Spring 2022\CSE 210\week4\prove4\obj\Debug\net6.0\prove4.dll
+C:\Users\erowl\BYU-Idaho\Spring 2022\CSE 210\week4\prove4\obj\Debug\net6.0\refint\prove4.dll
+C:\Users\erowl\BYU-Idaho\Spring 2022\CSE 210\week4\prove4\obj\Debug\net6.0\prove4.pdb
+C:\Users\erowl\BYU-Idaho\Spring 2022\CSE 210\week4\prove4\obj\Debug\net6.0\prove4.genruntimeconfig.cache
+C:\Users\erowl\BYU-Idaho\Spring 2022\CSE 210\week4\prove4\obj\Debug\net6.0\ref\prove4.dll
